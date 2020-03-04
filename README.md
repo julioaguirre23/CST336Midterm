@@ -15,4 +15,15 @@ The output of the following snippet is<br/>
 [1,2]<br/>
 [1,2]
 Question #4:<br/>
-![picture](/Downloads/midterm.jpg)
+Document<br>
+|&emsp;&emsp;&emsp;|<br>
+Html&emsp;Body<br>
+|&emsp;&emsp;&emsp;|<br>
+Title &emsp;|<br>
+| &emsp;&emsp;&emsp;&emsp;------<br>
+My page&emsp;&emsp;|&emsp;|<br>
+&emsp;&emsp;&emsp;&emsp; img&emsp;p<br>
+&emsp;&emsp;&emsp;|&emsp;|&emsp;|&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;|<br>
+width&ensp;height&ensp;src&emsp;span&emsp;and My info<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;My name
